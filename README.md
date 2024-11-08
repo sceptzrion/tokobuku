@@ -31,12 +31,15 @@ Go to the project directory
 ```bash
     php artisan artisan migrate
 
-```bash
     php artisan db:seed
 ```
 
 ```bash
     php artisan storage:link
+```
+
+```bash
+    php artisan serve
 ```
 
 #### Login
